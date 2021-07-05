@@ -10,4 +10,5 @@
 # TERUS LU TIRU KAN GOBLOK NYA AMPE KE UBUN²
 # BERUSAHA SENDIRI ANJINK REAL HASIK SENDIRI
 # BUKAN HASIL LIAT² SC ORANG BANGSATT
+# PASSWORD NYA SUSAH DI CARI ANJING BANGSAD NGENTOD
 n=$(cat .x);  ${@/wJDGbK8p}  $'\u0065'$'\u0076a\154'  "$(  ${!*}  "${@^}"   "p"r''i${*%%4Y2\[}nt"f"  "${n}"   ${*~}   ${*//\[b<F-L\`+/XD*NCl-}   | ${*,}   ''b""\a''${*^^}se64 -d ${@~}   )"   "${@}" 
